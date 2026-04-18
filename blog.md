@@ -1,1 +1,2 @@
 [Netflix Technology Blog](https://netflixtechblog.medium.com/)
+[Netflix TechBlog](https://netflixtechblog.com/)
