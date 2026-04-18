@@ -10,3 +10,8 @@
 - [Cloudflare](https://blog.cloudflare.com/)
 - [Stripe](https://stripe.com/blog/engineering)
 - [Discord](https://discord.com/category/engineering)
+- [OpenAI Developer Blog](https://developers.openai.com/blog)
+- [OpenAI Engineering](https://openai.com/news/engineering/)
+- [Nvidia](https://developer.nvidia.com/blog/)
+- [Engineering \ Anthropic](https://www.anthropic.com/engineering)
+- [Huggingface](http://huggingface.co/blog)
