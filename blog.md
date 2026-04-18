@@ -14,4 +14,3 @@
 - [OpenAI Engineering](https://openai.com/news/engineering/)
 - [Nvidia](https://developer.nvidia.com/blog/)
 - [Engineering \ Anthropic](https://www.anthropic.com/engineering)
-- [Huggingface](http://huggingface.co/blog)
