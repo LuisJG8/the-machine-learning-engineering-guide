@@ -7,3 +7,6 @@
 - [Google](https://developers.googleblog.com/)
 - [AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/)
 - [AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/)
+- [Cloudflare](https://blog.cloudflare.com/)
+- [Stripe](https://stripe.com/blog/engineering)
+- [Discord](https://discord.com/category/engineering)
